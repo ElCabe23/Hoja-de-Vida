@@ -1,0 +1,439 @@
+.nombre {
+    position: absolute;
+    width: 304px;
+    height: 34px;
+    left: 330px;
+    top: 39px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+.estudiante
+{
+    position: absolute;
+    width: 187px;
+    height: 15px;
+    left: 330px;
+    top: 72px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.fondoexperiencia
+{
+    position: absolute;
+width: 304px;
+height: 63px;
+left: 291px;
+top: 155px;
+
+background: #000000;
+}
+
+.experienciat
+{
+    position: absolute;
+    width: 193px;
+    height: 24px;
+    left: 330px;
+    top: 160px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.experiencia{
+    position: absolute;
+    width: 235px;
+    height: 64px;
+    left: 330px;
+    top: 275px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.fondohabilidades
+{
+    position: absolute;
+width: 304px;
+height: 63px;
+left: 291px;
+top: 397px;
+
+background: #000000;
+}
+.habilidadest
+{
+    position: absolute;
+    width: 293px;
+    height: 63px;
+    left: 330px;
+    top: 380px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.habilidad1
+{
+    position: absolute;
+width: 77px;
+height: 19px;
+left: 330px;
+top: 478px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+}
+
+.habilidad2
+{
+    position: absolute;
+width: 180px;
+height: 19px;
+left: 330px;
+top: 515px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+}
+
+.habilidad3
+{
+    position: absolute;
+width: 108px;
+height: 19px;
+left: 330px;
+top: 552px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+}
+
+.habilidad4
+{
+    position: absolute;
+width: 181px;
+height: 19px;
+left: 330px;
+top: 589px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+}
+
+.habilidad5
+{
+    position: absolute;
+width: 195px;
+height: 19px;
+left: 330px;
+top: 626px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+}
+
+.fondoidioma
+{
+position: absolute;
+width: 304px;
+height: 63px;
+left: 291px;
+top: 678px;
+
+background: #000000;
+}
+.idiomat
+{
+    position: absolute;
+width: 293px;
+height: 63px;
+left: 330px;
+top: 660px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+.idioma
+{
+    position: absolute;
+    width: 292px;
+    height: 84px;
+    left: 330px;
+    top: 750px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.foto
+{
+    position: absolute;
+    width: 179px;
+    height: 179px;
+    left: 52px;
+    top: 34px;
+    
+    background: url(/Imagenes/foto.jpg);
+    border-radius: 360px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.sobremi
+{
+    position: absolute;
+width: 300px;
+height: 842px;
+left: -9px;
+top: 0px;
+
+background: #000000;
+}
+
+.descripcion
+{
+    position: absolute;
+    left: 10.67%;
+    right: 7.67%;
+    top: 28.03%;
+    bottom: 58.43%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.contacto
+{
+    position: absolute;
+left: 39%;
+right: 19%;
+top: 45.49%;
+bottom: 51.07%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.contactoimg
+{
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 21px;
+top: 362px;
+
+background: url(/Imagenes/telefono.png);
+
+    border-radius: 360px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+
+
+}
+
+.datoscontacto
+{
+    position: absolute;
+left: 3.33%;
+right: 0%;
+top: 52.49%;
+bottom: 34.09%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.educacion
+{
+    position: absolute;
+    left: 39%;
+    right: 19%;
+    top: 71.97%;
+    bottom: 24.58%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.datoseducacion
+{
+    position: absolute;
+left: 3%;
+right: 0%;
+top: 85%;
+bottom: 8.67%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.educacionimg
+{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 21px;
+    top: 586px;
+    
+    background: url(/Imagenes/educacion.png);
+    border-radius: 360px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+}
